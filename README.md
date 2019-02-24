@@ -25,7 +25,7 @@ Statistics of acceptance rate for the main robotics conferences
 
 ## Graph 
 
-These graphs comes from [siddarth jain's webpage](http://users.eecs.northwestern.edu/~sjq751/conferences.html).
+These graphs are from [siddarth jain's webpage](http://users.eecs.northwestern.edu/~sjq751/conferences.html).
 
 ### ICRA
 
