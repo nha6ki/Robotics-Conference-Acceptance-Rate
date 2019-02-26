@@ -5,10 +5,10 @@ Statistics of acceptance rate for the main robotics conferences
 |ICRA'14 | |
 |ICRA'15 | |
 |ICRA'16 | |
-|ICRA'17 | |
-|ICRA'18 | |
+|ICRA'17 | 41.0% (939/2289) |
+|ICRA'18 | 40.7% (1052/2586) |
 |IROS'14 | |
-|IROS'15 | |
+|IROS'15 | 45.4% (969/2134) |
 |IROS'16 | 48.3% (830/1719) |
 |IROS'17 | |
 |IROS'18 | |
