@@ -2,42 +2,19 @@ Statistics of acceptance rate for the main robotics conferences
 =====
 | Conference | Acceptance rate | 
 |:----------:|:---------------:|
-|ICRA'14 | |
-|ICRA'15 | |
-|ICRA'16 | |
 |ICRA'17 | 41.0% (939/2289) |
 |ICRA'18 | 40.7% (1052/2586) |
-|IROS'14 | |
-|IROS'15 | 45.4% (969/2134) |
-|IROS'16 | 48.3% (830/1719) |
-|IROS'17 | |
-|IROS'18 | |
-|RSS'14 | 32.0% (57/178) |
-|RSS'15 | 26.1% (49/188) |
-|RSS'16 | 20.6% (47/228) |
+|ICRA'19 | 46.4% (1347/2903) |
+|ICRA'20 | 44.0% (1277/2902) |
+|IROS'17 | 44.8% (970/2164) |
+|IROS'18 | 46.4% (1254/2700) |
+|IROS'19 | 44.8% (1127/2513) |
+|IROS'20 | ? |
 |RSS'17 | 39.7% (75/189) |
-|HRI'15 | | 
-|HRI'15 | | 
-|HRI'16 | | 
-|HRI'17 | | 
-|CoRL'17 | | 
-|CoRL'18 | | 
-
-## Graph 
-
-These graphs are from [siddarth jain's webpage](http://users.eecs.northwestern.edu/~sjq751/conferences.html).
-
-### ICRA
-
-![img](https://i.imgur.com/fwQBf5L.jpg)
-
-### IROS
-
-![img](https://i.imgur.com/yvAIs6S.jpg)
-
-### RSS
-
-![img](https://i.imgur.com/WI3SSIo.jpg)
-
-## Reference:
-- [RSS Statistics](http://www.roboticsfoundation.org/index.php/statistics)
+|RSS'18 | ? (71/?) |
+|RSS'19 | ? (85/?) |
+|RSS'20 | ? (103/?) |
+|HRI'17 | 24.1% (51/211) | 
+|HRI'18 | 23.8% (49/206) | 
+|HRI'19 | 24.1% (48/199) | 
+|HRI'20 | ? | 
